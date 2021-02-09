@@ -1,0 +1,18 @@
+body{
+    text-align: center;
+}
+#marq{
+    background-color: black;
+    color: aliceblue;
+}
+img{
+    text-align: center;
+}
+#abc{
+    text-align:center;
+    margin-left: 500px;
+} 
+#xyz{
+    text-align:center;
+    margin-right: 950px;
+} 
